@@ -10,3 +10,4 @@
 * Python Notebook also compares the dialogue summarization task results between T5-Small vs. BART-Large-CNN vs. PEGASUS/XSum (All of which are have only undergone pretrainig without any finetuning) on randomly chosen dialogues.
 * Python Notebook also compares the dialogue summarization task results between finetuned version of T5-Small and pre-finetuned version of T5-Small
 * Finetuning was done with T4 GPU on Colab Pro
+* Additional Comparison of ROUGE Score improvement using full-finetuning vs. LoRA for Flan T5 for 1 epoch
